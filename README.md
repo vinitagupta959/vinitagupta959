@@ -1,83 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinita Gupta</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Continuous+Learner;Building+the+Modern+Web;Future+Full+Stack+Developer" alt="Typing SVG" />
-</p>
-
----
-
-### 💫 About Me
-
-I am a beginner **Frontend Developer** with a strong foundation in web technologies. I love turning complex problems into simple, beautiful, and intuitive designs. Currently, I am sharpening my skills in building scalable web applications and exploring the world of backend development.
-
-- 🔭 I’m currently working on **Finance Dashboard**
-- 🌱 I’m currently learning **Advanced JavaScript & Backend Integration**
-- 🎯 My Goal: **To become a Full Stack Developer**
-- ⚡ Fun fact: I enjoy breaking down logic into small, manageable pieces—just like code!
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Finance Dashboard** | A clean UI for tracking personal expenses and income. | HTML, CSS, JS |
-| **Quiz Game** | An interactive game with multiple-choice questions and scoring. | JavaScript, CSS |
-| **Weather App** | Real-time weather updates using a third-party API. | JavaScript, API |
-| **Task Manager** | A productivity tool to organize and manage daily tasks. | Node.js, Express |
-
----
-
-### 💻 Who am I?
-
-```javascript
-const vinita = {
+<h1 align="center">Hi 👋, I'm Vinita Gupta</h1><h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3><p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Continuous+Learner;Building+the+Modern+Web;Future+Full+Stack+Developer" alt="Typing SVG" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitagupta959&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" /></p>💫 About Me<table><tr><td width="60%">I am an aspiring <b>Frontend Developer</b> dedicated to building clean, interactive, and user-friendly web applications. I enjoy solving logical problems and turning creative ideas into functional code. Currently, I am expanding my knowledge in backend integration to transition into a Full Stack role.- 🔭 I’m currently working on <b>Finance Dashboard</b>- 🌱 I’m currently learning <b>Advanced JavaScript & Node.js</b>- 🎯 My Goal: <b>To become a Full Stack Developer</b>- ⚡ Fun fact: I love the "aha!" moment when a complex bug finally gets fixed!</td><td width="40%"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRnd3BvbmZ0ZzRnd3BvbmZ0ZzRnd3BvbmZ0ZzRnd3BvbmZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF" /></td></tr></table>🛠️ Tech StackFrontendBackend & DatabaseTools & Environment📂 Featured ProjectsProjectDescriptionTech Stack💰 Finance DashboardA comprehensive UI for tracking personal expenses and financial goals.HTML, CSS, JS🎮 Quiz GameAn interactive web-based quiz with real-time scoring logic.JavaScript, CSS☁️ Weather AppFetches live weather data from OpenWeather API based on location.API, JavaScript📝 Task ManagerA CRUD application to organize daily tasks and deadlines.Node.js, Express💻 Who am I?JavaScriptconst vinita = {
+  pronouns: "She / Her",
   code: ["Javascript", "HTML", "CSS"],
-  tools: ["Node.js", "Express", "MongoDB"],
-  architecture: "Frontend",
-  challenge: "Building responsive and accessible web apps",
-  goal: "Full Stack Developer"
+  tools: ["Node.js", "Express", "MongoDB", "Git"],
+  currentFocus: "Building responsive Finance Dashboard",
+  goal: "Mastering the MERN Stack",
+  motto: "Clean code, simple solutions."
 };
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinitagupta959&show_icons=true&theme=radical&hide_border=true" alt="Vinita's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitagupta959&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="left">
-<a href="mailto:vinitagupta9590@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/vinitagupta959"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">⭐️ From <b>Vinita Gupta</b></p>
+📊 GitHub Stats<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vinitagupta959&show_icons=true&theme=radical&hide_border=true" alt="Vinita's GitHub stats" /></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitagupta959&theme=radical&hide_border=true" alt="GitHub Streak" /></p>🤝 Let's Connect<p align="left"><a href="mailto:vinitagupta9590@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://linkedin.com/in/vinitagupta959"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p><p align="center">⭐️ Designed by <b>Vinita Gupta</b></p>
