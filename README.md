@@ -1,58 +1,59 @@
 <h1 align="center">Hi 👋, I'm Vinita Gupta</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Continuous+Learner;Building+the+Modern+Web;Future+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Continuous+Learner;Building+the+Modern+Web;Future+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-💫 About Me
-I am an aspiring Frontend Developer based in India, passionate about creating interactive and user-friendly web experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+---
 
-🔭 I’m currently working on Finance Dashboard
+### 💫 About Me
 
-🌱 I’m currently learning Advanced JavaScript and Node.js
+I am a beginner **Frontend Developer** with a strong foundation in web technologies. I love turning complex problems into simple, beautiful, and intuitive designs. Currently, I am sharpening my skills in building scalable web applications and exploring the world of backend development.
 
-🎯 My Goal: To become a Full Stack Developer
+- 🔭 I’m currently working on **Finance Dashboard**
+- 🌱 I’m currently learning **Advanced JavaScript & Backend Integration**
+- 🎯 My Goal: **To become a Full Stack Developer**
+- ⚡ Fun fact: I enjoy breaking down logic into small, manageable pieces—just like code!
 
-⚡ Fun fact: I love breaking down complex logic into small, manageable pieces.
+---
 
-🛠️ Tech Stack
-Frontend
+### 🛠️ Tech Stack
 
-HTML5, CSS3, JavaScript (ES6+)
+**Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-Backend & Database
+**Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Node.js (Basic), Express.js, MongoDB
+**Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Tools
+---
 
-Git, GitHub, VS Code
+### 📂 Featured Projects
 
-📂 Projects
-💰 Finance Dashboard – A web application to track personal expenses and financial goals.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Finance Dashboard** | A clean UI for tracking personal expenses and income. | HTML, CSS, JS |
+| **Quiz Game** | An interactive game with multiple-choice questions and scoring. | JavaScript, CSS |
+| **Weather App** | Real-time weather updates using a third-party API. | JavaScript, API |
+| **Task Manager** | A productivity tool to organize and manage daily tasks. | Node.js, Express |
 
-🎮 Quiz Game – An interactive quiz app built with JavaScript to test user knowledge.
+---
 
-☁️ Weather App – A real-time weather tracking application using external APIs.
+### 💻 Who am I?
 
-📝 Task Manager – A productivity tool to manage daily tasks and deadlines.
-
-💻 Who am I?
-JavaScript
-
+```javascript
 const vinita = {
-  role: "Frontend Developer",
-  location: "India",
-  skills: ["HTML", "CSS", "JS", "Node", "MongoDB"],
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["Node.js", "Express", "MongoDB"],
+  architecture: "Frontend",
   challenge: "Building responsive and accessible web apps",
   goal: "Full Stack Developer"
 };
-📊 GitHub Stats
-🤝 Let's Connect
-Email: vinitagupta9590@gmail.com
-
-LinkedIn: linkedin.com/in/vinitagupta959
-
-GitHub: github.com/vinitagupta959
-
-<p align="center">⭐️ From <b>Vinita Gupta</b></p>
