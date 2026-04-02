@@ -46,7 +46,6 @@ I am a beginner **Frontend Developer** with a strong foundation in web technolog
 | **Task Manager** | A productivity tool to organize and manage daily tasks. | Node.js, Express |
 
 ---
-
 ### 💻 Who am I?
 
 ```javascript
@@ -57,13 +56,13 @@ const vinita = {
   challenge: "Building responsive and accessible web apps",
   goal: "Full Stack Developer"
 };
----
-
 🤝 Let's Connect
-Email: vinitagupta9590@gmail.com
+📧 Email: vinitagupta9590@gmail.com
 
-LinkedIn: linkedin.com/in/vinitagupta959
+💼 LinkedIn: linkedin.com/in/vinitagupta959
 
-GitHub: github.com/vinitagupta959
+🐙 GitHub: github.com/vinitagupta959
+
+<br />
 
 <p align="center">⭐️ From <b>Vinita Gupta</b></p>
