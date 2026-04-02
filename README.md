@@ -57,3 +57,13 @@ const vinita = {
   challenge: "Building responsive and accessible web apps",
   goal: "Full Stack Developer"
 };
+---
+
+🤝 Let's Connect
+Email: vinitagupta9590@gmail.com
+
+LinkedIn: linkedin.com/in/vinitagupta959
+
+GitHub: github.com/vinitagupta959
+
+<p align="center">⭐️ From <b>Vinita Gupta</b></p>
