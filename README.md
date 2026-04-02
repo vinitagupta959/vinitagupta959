@@ -57,3 +57,26 @@ const vinita = {
   challenge: "Building responsive and accessible web apps",
   goal: "Full Stack Developer"
 };
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinitagupta959&show_icons=true&theme=radical&hide_border=true" alt="Vinita's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitagupta959&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+<a href="mailto:vinitagupta9590@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/vinitagupta959"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">⭐️ From <b>Vinita Gupta</b></p>
