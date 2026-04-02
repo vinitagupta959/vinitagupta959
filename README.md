@@ -43,9 +43,10 @@ I am a beginner **Frontend Developer** with a strong foundation in web technolog
 | **Finance Dashboard** | A clean UI for tracking personal expenses and income. | HTML, CSS, JS |
 | **Quiz Game** | An interactive game with multiple-choice questions and scoring. | JavaScript, CSS |
 | **Weather App** | Real-time weather updates using a third-party API. | JavaScript, API |
-| **Task Manager** | A productivity tool to organize and manage daily tasks. | Node.js, Express |
+| **Task Manager** | A productivity tool to organize and manage daily tasks. | HTML, CSS, JS|
 
 ---
+
 ### 💻 Who am I?
 
 ```javascript
@@ -56,13 +57,3 @@ const vinita = {
   challenge: "Building responsive and accessible web apps",
   goal: "Full Stack Developer"
 };
-🤝 Let's Connect
-📧 Email: vinitagupta9590@gmail.com
-
-💼 LinkedIn: linkedin.com/in/vinitagupta959
-
-🐙 GitHub: github.com/vinitagupta959
-
-<br />
-
-<p align="center">⭐️ From <b>Vinita Gupta</b></p>
